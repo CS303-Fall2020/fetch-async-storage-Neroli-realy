@@ -8,4 +8,4 @@ async todo app project
 
 
 #Demo
-![](https://imgur.com/Juhkpwj)
+![](https://i.imgur.com/Juhkpwj.gif)
