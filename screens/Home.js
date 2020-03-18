@@ -93,7 +93,6 @@ export default function Home({route, navigation}){
     setTask(() => {
       return g
     });
-    setcount(g.length);
     setAnimate(false);
     let ff = await AsyncStorage.getItem('ToDos');
     console.log("=============================================================");
